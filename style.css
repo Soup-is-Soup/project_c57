@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    margin: 0;
+}
+.parallax-inner{
+    display: table-cell; 
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+}
+#bio{
+    text-align: center;
+    font-size: 42px;
+    background: linear-gradient(orange,yellow);
+}
+
+p{
+    max-width: 450px;
+    margin: 25px auto; 
+    font-size: 17px;
+    line-height: 1.3;
